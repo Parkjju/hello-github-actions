@@ -1,1 +1,1 @@
-my first github actions
+ENTRYPOINT ["/entrypoint.sh"]
